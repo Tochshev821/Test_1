@@ -1,5 +1,6 @@
 import pygame
 import random
+#  aaa
 
 pygame.init()
 
@@ -86,5 +87,3 @@ while not done:
 	pygame.display.flip()
 	clock.tick(20)
 pygame.quit()
-
-
