@@ -1,8 +1,8 @@
 import pygame
 import random
-#  aaa
 
 pygame.init()
+#  this interesting code line initialize something
 
 BLACK = [0, 0, 0]
 WHITE = [255, 255, 255]
